@@ -1,0 +1,5 @@
+hackernews
+blogging
+Cyber
+https://thehackernews.com/2017/10/oracle-identity-manager.html
+Highly Critical Flaw (CVSS Score 10) Lets Hackers Hijack Oracle Identity Manager. A highly critical vulnerability has been discovered in Oracle's enterprise identity management system that can be easily exploited by remote, unauthenticated attackers to take full control over the affected systems.

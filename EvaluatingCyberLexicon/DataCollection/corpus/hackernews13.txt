@@ -1,0 +1,5 @@
+hackernews
+blogging
+Cyber
+https://thehackernews.com/2018/08/facebook-vpn-app-apple-store.html
+Apple Forces Facebook VPN App Out of iOS Store for Stealing Users' Data. Facebook yesterday removed its mobile VPN app called Onavo Protect from the iOS App Store after Apple declared the app violated the iPhone maker's App Store guidelines on data collection.

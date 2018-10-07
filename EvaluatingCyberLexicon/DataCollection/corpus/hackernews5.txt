@@ -1,0 +1,5 @@
+hackernews
+blogging
+Cyber
+https://thehackernews.com/2018/07/data-breach-healthcare.html
+Boys Town Healthcare Data Breach Exposed Personal Details of Patients. This time-sensitive and personal data of hundreds of thousands of people at Boys Town National Research Hospital have been exposed in what appears to be the largest ever reported breach by a pediatric care provider or children's hospital.

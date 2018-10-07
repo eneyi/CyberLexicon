@@ -1,0 +1,5 @@
+hackernews
+blogging
+Cyber
+https://thehackernews.com/2018/08/windows-zero-day-exploit.html?utm_medium=sidebar
+Hacker Discloses Unpatched Windows Zero-Day Vulnerability (With PoC). A security researcher has publicly disclosed the details of a previously unknown zero-day vulnerability in the Microsoft's Windows operating system that could help a local user or malicious program obtain system privileges on the targeted machine.

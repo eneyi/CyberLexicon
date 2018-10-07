@@ -1,0 +1,5 @@
+linkedin
+networking
+Cyber
+https://www.linkedin.com/feed/update/urn:li:activity:6440654724831150080
+A nice way to learn a lot about meterpreter, is to try and bypass Meterpreter Payload Detection. With a few changes on the source code, you can have a very good solution to defend against meterpreter.

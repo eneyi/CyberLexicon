@@ -1,0 +1,5 @@
+hackernews
+blogging
+Cyber
+https://thehackernews.com/2018/08/adobe-photoshop-update.html
+Adobe Issues Emergency Patches for Critical Flaws in Photoshop CC. Adobe released an out-of-band security update earlier today to address two critical remote code execution vulnerabilities impacting Adobe Photoshop CC for Microsoft Windows and Apple macOS machines.

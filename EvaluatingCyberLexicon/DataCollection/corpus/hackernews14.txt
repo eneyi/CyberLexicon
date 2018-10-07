@@ -1,0 +1,5 @@
+hackernews
+blogging
+Cyber
+https://thehackernews.com/2018/08/android-malware-spyware.html
+New Android Malware Framework Turns Apps Into Powerful Spyware. Security researchers have uncovered a new, powerful Android malware framework that is being used by cybercriminals to turn legitimate apps into spyware with extensive surveillance capabilities—as part of what seems to be a targeted espionage campaign.

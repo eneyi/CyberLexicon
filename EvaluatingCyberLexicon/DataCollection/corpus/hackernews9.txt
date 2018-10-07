@@ -1,0 +1,5 @@
+hackernews
+blogging
+Cyber
+https://thehackernews.com/2017/11/imgur-data-breach.html
+Imgur—Popular Image Sharing Site Was Hacked In 2014; Passwords Compromised. Only after a few days of Uber admitting last year's data breach of 57 million customers, the popular image sharing site disclosed that it had suffered a major data breach in 2014 that compromised email addresses and passwords of 1.7 million user accounts
