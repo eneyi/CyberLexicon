@@ -1,0 +1,5 @@
+steemit
+discussionf
+Cyber
+https://steemit.com/eos/@tokenika/installing-and-running-eos-on-windows
+he main benefit is that C++ developers using Windows can participate in EOS development without going into the trouble of switching back and forth between two operating systems.

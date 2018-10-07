@@ -1,0 +1,5 @@
+quora
+qanda
+Cyber
+https://www.quora.com/What-is-the-difference-between-cyber-security-and-ethical-hacking
+An ethical hacker (also known as a white hat hacker) is the ultimate security professional. Ethical hackers know how to find and exploit vulnerabilities and weaknesses in various systems—just like a malicious hacker (or a black hat hacker). In fact, they both use the same skills; however, an ethical hacker uses those skills in a legitimate, lawful manner to try to find vulnerabilities and fix them before the bad guys can get there and try to break in.

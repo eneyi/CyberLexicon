@@ -1,0 +1,5 @@
+reddit
+discussionf
+Cyber
+https://www.reddit.com/r/hacking/
+Ubuntu, Kali and metasploitable are all on the hostonly. Kali/ubuntu are also on nat. I can connect from ubuntu to metasploitable but not from kali to metasploitable

@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1356168/powershell-assistance
+I am trying to find or build a script through powershell that will create a report showing users mapped drives on the domain. Get-PSDrive -PSProvider FileSystem | Select-Object name, @{n="Root"; e={if ($.DisplayRoot -eq $null) {$.Root} else {$_.DisplayRoot}}} I found this command to pull the drives and paths but now trying to figure out how if even possible to use power shell to scan the users on the network. Is this even possible?

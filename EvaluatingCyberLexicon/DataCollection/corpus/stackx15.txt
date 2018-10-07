@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1355824/sql-server-2012-repair-installation-fails
+We have a Windows 2012 R2 server and want to run MS SQL Server 2012. It seems like someone attempted installation a while back but it is not installed properly since SQL Server does not show under All Programs.

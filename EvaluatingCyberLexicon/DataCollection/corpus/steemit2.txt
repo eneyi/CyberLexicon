@@ -1,0 +1,5 @@
+steemit
+discussionf
+Cyber
+https://steemit.com/eos/@tokenika/installing-and-running-eos-on-windows
+If you are on Windows 10 and want to take advantage of Windows Subsystem for Linux, it's very easy: it takes less than 5 minutes and it's just a matter of running one command in the command-line interface.

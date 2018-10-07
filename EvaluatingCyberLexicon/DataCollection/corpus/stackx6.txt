@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1239203/windows-10-change-default-window-launch-size-opening-the-command-prompt
+This problem does not show up in all situations. When I open CMD with Run or Perforce (Where I usually use it), it is annoyingly small. When I run it from the Start Menu, it is a normal size. Which makes me wonder if these programs use a different shortcut/command to open it than Windows does by default.

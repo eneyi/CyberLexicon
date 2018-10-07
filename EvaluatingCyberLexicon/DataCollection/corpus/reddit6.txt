@@ -1,0 +1,5 @@
+reddit
+discussionf
+Cyber
+https://www.reddit.com/r/programming/
+I can actually seriously imagine Linus making such a statement, considering how badly Intel has fucked up. It really is insane that Intel's architectural choices from however long ago lead to the never-ending stream of problems in the form of Spectre and Meltdown. And that Intel have been hit, far and away, the hardest of all.

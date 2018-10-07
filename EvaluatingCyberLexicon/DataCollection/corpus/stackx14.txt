@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1355824/sql-server-2012-repair-installation-fails
+Did you installed it directly from ISO ? Or you unzip it to the file system first?

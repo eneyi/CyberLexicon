@@ -1,0 +1,5 @@
+quora
+qanda
+Cyber
+https://www.quora.com/Are-cyber-security-jobs-interesting
+There are so many sub-domains in Cybersecurity, this would be impossible to answer. In short, the positions range from actual hacking (Pen-test) to compaliance and everything in the middle.

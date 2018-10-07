@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1356143/unable-to-convert-logical-partition-to-primary-or-create-create-a-new-primary-pa
+So here is the issue: I have a 500 GB Hard Disk in my laptop, currently I have linux (Debian 9) installed on it. Now I wanted to dual boot my laptop with Windows 10/8.1/7 in one of my 60GB unallocated space, but I can't install windows 10/8.1 in that unallocated space even after formating it as NTFS in gparted.

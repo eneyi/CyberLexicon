@@ -1,0 +1,5 @@
+steemit
+discussionf
+Cyber
+https://steemit.com/eos/@tokenika/installing-and-running-eos-on-windows
+However if you just want to write smart-contracts, in the future you will be able to do it in C# or Java, as Web Assembly (i.e. EOS virtual machine for smart-contracts) will eventually support those higher-level languages. For now it's just C/C++ and soon Rust.

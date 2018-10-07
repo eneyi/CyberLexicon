@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1356143/unable-to-convert-logical-partition-to-primary-or-create-create-a-new-primary-pa
+So here is the issue: I have a 500 GB Hard Disk in my laptop, currently I have linux (Debian 9) installed on it. Now I wanted to dual boot my laptop with Windows 10/8.1/7 in one of my 60GB unallocated space, but I can't install windows 10/8.1 in that unallocated space even after formating it as NTFS in gparted. This is how my partitions looks like: gparted You see the problem in it.?? I think the problem is that I have 1 extended partition containing 2 logical partitions, 1 is ntfs (DATA), 1 is ext4 (linux/root)...I want to change this so that i have at least one primary partition for windows. The error that windows 10/8.1 gives me is during installation is: "We couldn't create a new partition or locate an existing one. For more information,see the setup log files." The solution on different forums for the issue is basically to delete my whole partitioning system and do clean install windows, but that will cost me around 200GB+ of important setup and other data.

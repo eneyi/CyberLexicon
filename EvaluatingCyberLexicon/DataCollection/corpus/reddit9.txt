@@ -1,0 +1,5 @@
+reddit
+discussionf
+Cyber
+https://www.reddit.com/r/programming/
+I'm even more interested in AMD's architecture design, now, considering how it has allowed them to entirely avoid the worst of speculative execution vulnerabilities. What's their secret? What choices were made that made Zen so much more secure than Intel's architectural choices?

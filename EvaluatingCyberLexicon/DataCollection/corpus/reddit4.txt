@@ -1,0 +1,5 @@
+reddit
+discussionf
+Cyber
+https://www.reddit.com/r/hacking/
+I am curently working on some shellcode swapping so I will add changing payloads. As for older exploits... it is a bit problematic. Although I will think about that. :) Thanks a lot.

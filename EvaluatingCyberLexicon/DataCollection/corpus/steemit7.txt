@@ -1,0 +1,5 @@
+steemit
+discussionf
+Cyber
+https://steemit.com/steem/@tcpolymath/a-simple-python-script-to-find-inactive-follows
+Tutorial is meant to be about micro-transaction based authentication with twisted web and asyncsteem, but I think this idea could make the resulting web app do something actually usefull instead of the:

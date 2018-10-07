@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1239203/windows-10-change-default-window-launch-size-opening-the-command-prompt
+I closed the command prompt when I was done and Windows remembered the window size. So the next time I opened it, it was still 3" wide and the full height of the screen. No problem, right? Just resize the window again and close it again. Well, Windows is being stubborn and is refusing to recognize any new window size. So I have to resize my 3" wide window every time I open it (10+ times a day)

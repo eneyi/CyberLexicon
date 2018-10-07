@@ -1,0 +1,5 @@
+reddit
+discussionf
+Cyber
+https://www.reddit.com/r/programming/
+Why would this be the first time? Microsoft employees have contributed code to Linux for several years, I'd imagine at least one of those contributions has involved security engineers working together.

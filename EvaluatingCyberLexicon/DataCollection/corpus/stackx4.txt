@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1356143/unable-to-convert-logical-partition-to-primary-or-create-create-a-new-primary-pa
+The error that windows 10/8.1 gives me is during installation is: "We couldn't create a new partition or locate an existing one. For more information,see the setup log files." The solution on different forums for the issue is basically to delete my whole partitioning system and do clean install windows, but that will cost me around 200GB+ of important setup and other data.

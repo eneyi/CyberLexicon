@@ -1,0 +1,5 @@
+quora
+qanda
+Cyber
+https://www.quora.com/What-is-the-difference-between-cyber-security-and-ethical-hacking
+In simpler terms difference between cyber security and ethical hacking is where ethical hacking is a computer & networking professional who systematically attempts to go into a computer system or network on behalf of its owners for the purpose of finding security vulnerabilities that a malicious hacker could potentially exploit. In cyber security, you should have the knowledge of hacking & decryption, so that you can stop a hacker from doing bad things. You need to find the digital footprint of the hackers to stop and catch them. Unauthorized hacking is a crime in most of the countries.

@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1356143/unable-to-convert-logical-partition-to-primary-or-create-create-a-new-primary-pa
+So what I'm looking for is to instead of deleting my all partitions, I want to convert the free space or the logical partition into primary partition in order to install windows.

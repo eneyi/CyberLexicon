@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1031946/automatically-add-domain-group-to-new-windows-installation?rq=1
+You can add a domain group to a local group via the unattend.xml file, eliminating the need for any scripting.

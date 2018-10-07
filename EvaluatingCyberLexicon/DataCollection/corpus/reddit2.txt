@@ -1,0 +1,5 @@
+reddit
+discussionf
+Cyber
+https://www.reddit.com/r/hacking/
+So weird. I turned everything off and on again for the ten millionth time and this time I can connect to metasploitable from both Kali and Ubuntu. Only problem/question i have now is why Kali doesnt have a 192 ip but ubuntu does

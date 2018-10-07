@@ -1,0 +1,5 @@
+quora
+qanda
+Cyber
+https://www.quora.com/What-is-cyber-security
+A patch is a set of changes to a computer program or its supporting data designed to update, fix, or improve it. This includes fixing security vulnerabilities and other bugs, with such patches usually being called bugfixes or bug fixes, and improving the usability or performance.

@@ -1,0 +1,5 @@
+quora
+qanda
+Cyber
+https://www.quora.com/What-is-the-difference-between-cyber-security-and-ethical-hacking
+In the simplest of terms ethical hacking are offensive security measures taken to find leaks and vulnerabilities in a system. Once they are known its easier to secure the said system instead of just taking blind measures without knowing how the system in question can be compromised.

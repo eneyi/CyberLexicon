@@ -1,0 +1,5 @@
+stackx
+qanda
+Cyber
+https://superuser.com/questions/1356143/unable-to-convert-logical-partition-to-primary-or-create-create-a-new-primary-pa
+Also I tried to move the sda6 partition thinking maybe if i could have free location at the end sectors, then i might be able to create a primary partition, but then gparted gives me this error and says that i have to use chkdsk /f on windows to fix the partition and when i booted from a live windows dvd and tried the command there, it doesn't work either and gives strange errors.

@@ -1,0 +1,5 @@
+reddit
+discussionf
+Cyber
+https://www.reddit.com/r/cybersecurity/
+Understanding of security is interconnected to networking. I have asked this same question myself - because I am in almost the same exact position as you. Currently, I am studying the Network+. I eventually do want to snag the CCENT/CCNAs, because they are very respected and Cisco kicks ass. I honestly enjoy (and needed) to go over the foundation concepts of networking and like that it is vendor neutral. I am still weighing to take the exam or not - but I skipped A+ because I felt for a security career, my own past experiences and landimh a help desk gig without it meant I could skip over A+. So I likely will take the N+ exam to get a cert on the books for myself. But who knows. I am however 100% taking the Security+ though.

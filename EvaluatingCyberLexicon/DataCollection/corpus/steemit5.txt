@@ -1,0 +1,5 @@
+steemit
+discussionf
+Cyber
+https://steemit.com/eos/@tokenika/installing-and-running-eos-on-windows
+Ubuntu VM is part of Windows 10 and both systems share the same resources (e.g. the file system). You access your Ubuntu on Windows via a command prompt, pretty much similar to DOS command prompt.

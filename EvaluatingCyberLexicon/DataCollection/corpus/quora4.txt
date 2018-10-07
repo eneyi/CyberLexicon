@@ -1,0 +1,5 @@
+quora
+qanda
+Cyber
+https://www.quora.com/What-is-cyber-security
+Antivirus software was originally developed to detect and remove computer viruses, hence the name. However, with the proliferation of other kinds of malware, antivirus software started to provide protection from other computer threats.

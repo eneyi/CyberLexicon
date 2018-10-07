@@ -1,0 +1,5 @@
+reddit
+discussionf
+Cyber
+https://www.reddit.com/r/hacking/
+Many exploits from exploit-db don't work out of the box. You might need change the payload because it's just a proof of concept. Some have hard-coded IP addresses. Compiling older exploits can be annoying due to incompatibility etc. Do you address these issues?

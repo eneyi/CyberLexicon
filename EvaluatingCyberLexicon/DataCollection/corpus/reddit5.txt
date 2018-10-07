@@ -1,0 +1,5 @@
+reddit
+discussionf
+Cyber
+https://www.reddit.com/r/hacking/
+Thank you very much for pointing it out :) I will try to find a way to make it work with additional flags, although it is going to be difficult to accomplish. Although for now I can not think of a way to do it. :/

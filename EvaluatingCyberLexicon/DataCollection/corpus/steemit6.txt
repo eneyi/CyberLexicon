@@ -1,0 +1,5 @@
+steemit
+discussionf
+Cyber
+https://steemit.com/steem/@tcpolymath/a-simple-python-script-to-find-inactive-follows
+Following inactive accounts reduces the authority you can pass on to active accounts, who pass it back to you and on to other people in your network, as well as growing your network. So unless there's a significant reason to keep following an absent user, it makes sense to keep your follower count to people who are actually here, if you're participating in UA. If you aren't then it doesn't really matter.

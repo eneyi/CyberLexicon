@@ -1,0 +1,5 @@
+steemit
+discussionf
+Cyber
+https://steemit.com/steem/@tcpolymath/a-simple-python-script-to-find-inactive-follows
+These lines of code can be used by advance Python users. I am newbie and I failed to run after 2h of research. If you can post in the future an friendly way of using this scripts it will help more steemians.

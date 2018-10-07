@@ -1,0 +1,5 @@
+quora
+qanda
+Cyber
+https://www.quora.com/What-is-the-difference-between-cyber-security-and-ethical-hacking
+Cyber security has never been simple. And because attacks evolve every day as attackers become more inventive, it is critical to properly define cyber security and identify what constitutes good cyber security.

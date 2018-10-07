@@ -1,0 +1,5 @@
+quora
+qanda
+Cyber
+https://www.quora.com/Are-cyber-security-jobs-interesting
+It really depends what field of cyber security. There’s many. When I saw your question I thought you meant Network Security, which is what I am pursuing. There’s security analysis, vulnerability scanning, forensic investigations, etc.
