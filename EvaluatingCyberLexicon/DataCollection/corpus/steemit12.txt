@@ -1,0 +1,5 @@
+steemit
+discussionf
+Cyber
+https://steemit.com/free/@mindchowclub/sql-injection-attack-ethical-hacking-course
+SQL Injection (SQLi) refers to an injection attack wherein an attacker can execute malicious SQL statements (also commonly referred to as a malicious payload) that control a web application’s database server.
