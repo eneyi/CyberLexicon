@@ -1,5 +1,4 @@
 #building the krypton lexicon
-setwd("/Users/crypteye/OneDrive/School/Papers/Krypton/")
 set.seed(1000)
 
 library(tm)
@@ -118,10 +117,6 @@ plot(1:nrow(fdr),fdr$ratio, type='l',frame=F, main="Frequency-Degree Ratio Score
 
 
 ###tf-idf score
-
-
-
-
 tfidf = data.frame(sapply(tt, function(dn)ifelse(dn>0,1,0)))
 tdifsums = colSums(tfidf)
 tfidf_scores = normed(log(nrow(tt)/tdifsums)*fq)
@@ -193,10 +188,6 @@ collated=unique(collated)
 t2 = ranked[collated,]
 t2=t2[complete.cases(t2),]
 write.csv(ranked, "BuildingTheLexicon/Analysis/t2.csv")
-
-
-
-
 
 
 #746 terms
