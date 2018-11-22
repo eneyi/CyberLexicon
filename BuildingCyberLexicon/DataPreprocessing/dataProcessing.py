@@ -1,3 +1,6 @@
+#written by ruth
+
+
 from os import listdir
 from string import punctuation
 from nltk.corpus import stopwords
